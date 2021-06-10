@@ -9,10 +9,12 @@ You can also use these packages by writing this below command in your terminal..
 
 # For background animation..
 
-### 'npm install particles-bg'
+### Command - 'npm install particles-bg'
 
 # For mouse particles..
 
-### 'npm install react-mouse-particles'
+### Command - 'npm install react-mouse-particles'
+
+
 
 You must refer google for better undertanding.. Thanks!
