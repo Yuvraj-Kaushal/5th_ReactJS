@@ -6,6 +6,7 @@ View it here - https://yuvraj-kaushal.github.io/5th_ReactJS/
 
 You must be wondering that how i added background animation and mouse particles right? Basically i installed the animation and particles packages..
 You can also use these packages by writing this below command in your terminal..
+You must refer google for better undertanding.. Thanks!
 
 # For background animation..
 
@@ -14,7 +15,3 @@ You can also use these packages by writing this below command in your terminal..
 # For mouse particles..
 
 ### Command - 'npm install react-mouse-particles'
-
-
-
-You must refer google for better undertanding.. Thanks!
